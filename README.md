@@ -1,7 +1,7 @@
 # Automathirds
 ![Automathirds](https://user-images.githubusercontent.com/107147039/172746741-d9d99289-534e-4fd0-af6f-fd2b87bae167.PNG)
 
-Automathirds is a generative music performance interface that uses a grid operating on Life-like cellular automaton rulesets to trigger different pitches of the cells' sine wave oscillators. The conditions for cells to be born, survive, or die are iterations of the original “life” ruleset devised by British mathematician John Conway in 1970. This interface was created by Adriel Limas on Max MSP for the Spring 2022 RTVF 376: Digital Music Instrument Design Class at Northwestern University.
+Automathirds is a generative music performance interface that uses a grid operating on Life-like cellular automaton rulesets to trigger different pitches. The conditions for cells to be born, survive, or die are iterations of the original “life” ruleset devised by British mathematician John Conway in 1970. This interface was created by Adriel Limas on Max MSP for the Spring 2022 RTVF 376: Digital Music Instrument Design Class at Northwestern University.
 # Inspiration
 ![Gospers_glider_gun](https://user-images.githubusercontent.com/107147039/172748930-f69dd894-02bd-47e5-b06c-12c4cee69c7f.gif)
 
