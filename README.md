@@ -1,5 +1,5 @@
 # Automathirds
-![Automathirds](https://user-images.githubusercontent.com/107147039/172746741-d9d99289-534e-4fd0-af6f-fd2b87bae167.PNG)
+![Automathirds](https://user-images.githubusercontent.com/107147039/172756920-deb1503e-8d45-45aa-bf2a-8e506b3b2673.PNG)
 
 Automathirds is a generative music performance interface that uses a grid operating on Life-like cellular automaton rulesets to trigger different pitches. The conditions for cells to be born, survive, or die are based on iterations of the original “life” ruleset created by British mathematician John Conway in 1970. Automathirds was created by Adriel Limas on Max MSP for the Spring 2022 RTVF 376: Digital Music Instrument Design Class at Northwestern University.
 # Inspiration
